@@ -30,11 +30,11 @@ debug/
 *.exe
 
 thumbs.db
-#.DS_Store
+.DS_Store
 *.log
 
-#test/
-#target/generated-sources/
+test/
+target/generated-sources/
 target/
 /.classpath
 /.project
